@@ -32,3 +32,37 @@ c:\users\alumno\documents\visual studio 2017\Projects\Tarea\Tarea\bin\Microsoft.
 c:\users\alumno\documents\visual studio 2017\Projects\Tarea\Tarea\obj\Debug\Tarea.csprojResolveAssemblyReference.cache
 c:\users\alumno\documents\visual studio 2017\Projects\Tarea\Tarea\obj\Debug\Tarea.dll
 c:\users\alumno\documents\visual studio 2017\Projects\Tarea\Tarea\obj\Debug\Tarea.pdb
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\csc.exe
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\csc.exe.config
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\csc.rsp
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\csi.exe
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\csi.rsp
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\System.AppContext.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\vbc.exe
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\vbc.exe.config
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\vbc.rsp
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\VBCSCompiler.exe
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\Tarea.dll.config
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\Tarea.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\Tarea.pdb
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\obj\Debug\Tarea.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\obj\Debug\Tarea.dll
+C:\Users\alumno\Documents\GitHub\PMC1T_GAMER\Tarea\Tarea\obj\Debug\Tarea.pdb

@@ -1,19 +1,22 @@
 ﻿<%@ Master Language="C#" MasterPageFile="~/Maestra.Master" AutoEventWireup="true" CodeBehind="MaestraAnidada.master.cs" Inherits="Tarea.MaestraAnidada" %>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <section class="MAd_publicidad">
-        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
-    </section>
-    
-    <section class="MAd_productos" id="derecha">
-        
-        <div >
-            
-            <asp:AdRotator ID="AdRotator1" runat="server" DataSourceID="XmlDataSource1" />
-            <asp:XmlDataSource runat="server" ID="XmlDataSource1" DataFile="~/Publicidad.xml"></asp:XmlDataSource>
+    <div style="border:1px solid yellow">
+        <section class="MAd_publicidad">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        </section>
 
-        </div>
-        
+        <section class="MAd_productos" id="derecha">
 
-    </section>
-    <div  style="clear:both" class="clear"></div>
+            <div >
+
+                <asp:AdRotator ID="AdRotator1" runat="server" Width="200" Height="200" DataSourceID="XmlDataSource1" />
+                <asp:XmlDataSource runat="server" ID="XmlDataSource1" DataFile="~/Publicidad.xml"></asp:XmlDataSource>
+
+            </div>
+
+
+        </section>
+        <div style="clear: both" class="clear"></div>
+    </div>
 </asp:Content>
