@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<productos>
+  <producto>
+    <imagen>http://cotar.com.ar/wp-content/uploads/bfi_thumb/lecheEntera-mdtg76zzp5jy63lqle4xaoixduhy6pup7vi3ghcw4g.png</imagen>
+    <precio>50.00</precio>
+  </producto>
+  <producto>
+    <imagen>http://cotar.com.ar/wp-content/uploads/bfi_thumb/lecheEntera-mdtg76zzp5jy63lqle4xaoixduhy6pup7vi3ghcw4g.png</imagen>
+    <precio>50.00</precio>
+  </producto>
+  <producto>
+    <imagen>http://cotar.com.ar/wp-content/uploads/bfi_thumb/lecheEntera-mdtg76zzp5jy63lqle4xaoixduhy6pup7vi3ghcw4g.png</imagen>
+  </producto>
+  <producto>
+    <imagen>http://cotar.com.ar/wp-content/uploads/bfi_thumb/lecheEntera-mdtg76zzp5jy63lqle4xaoixduhy6pup7vi3ghcw4g.png</imagen>
+    <precio>50.00</precio>
+  </producto>
+</productos>

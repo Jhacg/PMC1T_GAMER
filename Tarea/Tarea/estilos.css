@@ -1,0 +1,25 @@
+﻿body {
+}
+#contenedor{
+    margin:auto;
+}
+header {
+    text-align: center;
+}
+
+nav a {
+    padding: 15px;
+    text-decoration:none;
+}
+
+footer {
+    text-align: center;
+}
+.MAd_publicidad {
+    width: 80%;
+    float: left;
+}
+.MAd_productos {
+    margin-left:80%;
+}
+
